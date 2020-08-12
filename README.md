@@ -1,4 +1,4 @@
-# Details
+# Respority Details
 Here is all my progress through this CS50-s-Introduction-to-Game-Development course plus all the original code and slides
 
 # CS50-s-Introduction-to-Game-Development
